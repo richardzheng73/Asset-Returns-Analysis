@@ -1,8 +1,4 @@
 # Asset-Returns-Analysis
-A Python tool for financial time series analysis, computing asset return statistics, distributions, and risk metrics for quantitative research.
-
-📊 Asset Returns Analysis Tool
-
 A Python-based tool for analyzing financial time series and computing statistical and risk metrics for asset returns. This project is designed as a foundational component for quantitative research and future strategy development.
 
 📌 Overview
