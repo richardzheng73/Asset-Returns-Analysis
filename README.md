@@ -35,20 +35,22 @@ Statistical metrics are computed using standard numerical libraries to evaluate 
 
 This project is currently under active development. The current version focuses on return computation and statistical analysis of single-asset time series.
 
-🗺️ Roadmap
-✅ Completed
+## 🗺️ Roadmap
+### ✅ Completed
 - Return calculations 
 - Basic statistical analysis
 
-🔄 In Progress
+### 🔄 In Progress
 - Expanded volatility modeling
 - Additional statistical metrics
-🔜 Planned
+  
+### 🔜 Planned
 - Risk-adjusted performance metrics (Sharpe ratio, drawdown)
 - Backtesting engine for strategy evaluation
 - Multi-asset portfolio analysis
 - Integration of trading strategies
-⚠️ Known Limitations
+
+### ⚠️ Known Limitations
 - Currently limited to single-asset analysis
 - No transaction cost or slippage modeling
 - No strategy backtesting implemented yet
