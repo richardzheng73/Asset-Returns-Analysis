@@ -39,19 +39,18 @@ This project is currently under active development. The current version focuses 
 ### ✅ Completed
 - Return calculations 
 - Basic statistical analysis
+- Expanded volatility modeling
+-  Additional statistical metrics
+-  Risk-adjusted performance metrics (Sharpe ratio, drawdown)
+-  Multi-asset portfolio analysis
 
 ### 🔄 In Progress
-- Expanded volatility modeling
-- Additional statistical metrics
-  
-### 🔜 Planned
-- Risk-adjusted performance metrics (Sharpe ratio, drawdown)
 - Backtesting engine for strategy evaluation
-- Multi-asset portfolio analysis
+- Simulating features 
+### 🔜 Planned)
 - Integration of trading strategies
 
 ### ⚠️ Known Limitations
-- Currently limited to single-asset analysis
 - No transaction cost or slippage modeling
 - No strategy backtesting implemented yet
 - Does not take into account money made from dividends
