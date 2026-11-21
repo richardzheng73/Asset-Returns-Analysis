@@ -5,8 +5,6 @@ A Python-based tool for analyzing financial time series and computing statistica
 
 Understanding the behavior of asset returns is fundamental in quantitative finance and risk management. This project provides a framework for computing and analyzing return distributions, volatility, and key statistical properties of financial time series.
 
-The goal is to build a modular tool that evolves from basic return analysis into a more comprehensive quantitative research and backtesting system.
-
 ## ⚙️ Features
 
 Compute simple and log returns
@@ -32,25 +30,4 @@ Returns are calculated using both simple and log return formulations.
 
 Statistical metrics are computed using standard numerical libraries to evaluate distribution shape and volatility.
 
-## 🚧 Project Status
 
-This project is currently under active development. The current version focuses on generating metrics and graphs of past data. 
-
-## 🗺️ Roadmap
-### ✅ Completed
-- Return calculations 
-- Basic statistical analysis
-- Expanded volatility modeling
--  Additional statistical metrics
--  Risk-adjusted performance metrics (Sharpe ratio, drawdown)
--  Multi-asset portfolio analysis
--  
-### 🔜 Planned)
-- Integration of trading strategies
-- Simulating features
-- Forecasting
-
-### ⚠️ Known Limitations
-- No transaction cost or slippage modeling
-- No strategy backtesting implemented yet
-- Does not take into account money made from dividends
